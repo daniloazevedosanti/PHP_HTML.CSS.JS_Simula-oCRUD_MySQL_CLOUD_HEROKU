@@ -1,5 +1,5 @@
 <?php
-include "connect.php";
+include "../Data/connect.php";
 
 $consulta = $_POST['consulta'];
 

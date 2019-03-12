@@ -5,7 +5,7 @@
 	<body>
 			<div align="center"><h3>Consulta de Dados</h3></div>
 			<br />
-		<form action="consult_form.php" method="POST">
+		<form action="../front/consult_form.php" method="POST">
 				<hr />
 				NOME:
 				<br />	

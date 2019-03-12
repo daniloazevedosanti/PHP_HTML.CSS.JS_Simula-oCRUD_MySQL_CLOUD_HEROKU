@@ -5,7 +5,7 @@
 	<body>
 			<div align="center"><h3>Cadastro de Dados</h3></div>
 			<br />
-		<form action="insert.php" method="POST">
+		<form action="../Operacoes/insert.php" method="POST">
 				<hr />
 				NOME:
 				<br />	
