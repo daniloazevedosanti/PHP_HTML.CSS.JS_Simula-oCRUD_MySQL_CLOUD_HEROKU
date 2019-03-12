@@ -18,7 +18,10 @@ echo "Atualizado com Sucesso! <br>";
 
 ?>
 <html>
-<head></head>
+<head>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+</head>
 <body>
 <br>
 <input type="button" value="Nova Pesquisa" onClick="history.go(-2)">
